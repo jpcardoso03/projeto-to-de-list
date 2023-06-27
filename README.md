@@ -1,6 +1,6 @@
 # Projeto To De List
 
-## [Link do projeto]( https://jpcardoso03.github.io/projeto-to-de-list/s)
+## [Link do projeto]( https://jpcardoso03.github.io/projeto-to-de-list/)
 
 ## Descrição
 Esse site permite ao usuário anotar suas tarefas de forma organizada. A funcionalidade de marcação de tarefas concluídas ajuda a acompanhar o progresso e traz uma sensação de realização. É uma ferramenta indispensável para uma gestão eficiente do tempo, aumentando a produtividade e auxiliando na conquista de objetivos diários.
